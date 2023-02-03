@@ -42,3 +42,9 @@ the Human Rights module and marries it in discussion to concrete examples and ex
 that reveal how human rights principles are at interplay with the code. The Jupyter notebook
 investigates how code can be de-biased and improved to support Human Rights principles of
 non-discrimination and equality, participation, and accountability.
+
+
+
+[![DOI](https://zenodo.org/badge/596733935.svg)](https://zenodo.org/badge/latestdoi/596733935)
+
+
