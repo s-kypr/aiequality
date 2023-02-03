@@ -5,7 +5,7 @@ authors:
   given-names: "Sofia"
   orcid: " https://orcid.org/0000-0003-4656-8446"
 title: "aiequality"
-version: 1.0.0
-doi: 10.5281/zenodo.1234
+version: 1.0.1
+doi: 10.5281/zenodo.7602378
 date-released: 2021-08-31
 url: "https://github.com/s-kypr/aiequality"
